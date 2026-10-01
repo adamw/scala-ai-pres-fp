@@ -1,0 +1,14 @@
+.sandcat
+target
+.bsp
+.metals
+.devcontainer
+.vscode
+.bloop
+.scala-build
+work.md
+skill-demo
+metals.sbt
+
+# Sandcat
+# /Sandcat
