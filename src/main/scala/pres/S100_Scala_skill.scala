@@ -1,6 +1,6 @@
 package pres
 
-object S200_Scala_skill:
+object S100_Scala_skill:
   val _1 = "Experimentally refined" -> List(
     "Re-generating an CRUD app",
     "Manual quality review"

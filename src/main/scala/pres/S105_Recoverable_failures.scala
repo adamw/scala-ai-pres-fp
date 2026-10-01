@@ -1,7 +1,7 @@
 package pres
 
-object S205_Recoverable_failures:
-  import S204_Domain_types.WithSkill.Score
+object S105_Recoverable_failures:
+  import S104_Domain_types.WithSkill.Score
 
   def withoutSkill() =
     case class PasswordConfig(minScore: Int) derives ConfigReader:

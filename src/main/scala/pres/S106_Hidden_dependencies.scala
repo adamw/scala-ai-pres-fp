@@ -2,7 +2,7 @@ package pres
 
 import java.time.{Clock, ZoneOffset}
 
-object S208_Hidden_dependencies:
+object S106_Hidden_dependencies:
 
   object WithoutSkill:
     object DateMatcher:

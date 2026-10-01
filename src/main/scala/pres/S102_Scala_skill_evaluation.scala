@@ -1,6 +1,6 @@
 package pres
 
-object S202_Scala_skill_evaluation:
+object S102_Scala_skill_evaluation:
   def doesItWork() = ???
 
   // experiment: add a password-strength-estimator feature to Bootzooka

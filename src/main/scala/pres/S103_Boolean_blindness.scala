@@ -1,6 +1,6 @@
 package pres
 
-object S203_Boolean_blindness:
+object S103_Boolean_blindness:
 
   def withoutSkill() =
     /** Boolean blindness: `true` at the call site says nothing. Two flags also admit a state that

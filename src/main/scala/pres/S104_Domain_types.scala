@@ -1,6 +1,6 @@
 package pres
 
-object S204_Domain_types:
+object S104_Domain_types:
 
   object WithoutSkill:
     object PasswordScore:
