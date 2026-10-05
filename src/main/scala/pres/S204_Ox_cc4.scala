@@ -1,6 +1,7 @@
 package pres
 
 import language.experimental.captureChecking
+import language.experimental.separationChecking
 import scala.util.boundary, boundary.break
 import scala.caps.{any, Control, SharedCapability}
 

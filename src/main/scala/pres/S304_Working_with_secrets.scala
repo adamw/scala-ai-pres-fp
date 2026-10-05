@@ -5,7 +5,6 @@ import S303_API_for_secrets.*
 
 class S304_Working_with_secrets(using IO):
 
-  // TODO
   val x1 = Classified.read("x")
   val x2 = x1.map(_.toUpperCase())
 
