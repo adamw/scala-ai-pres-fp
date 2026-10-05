@@ -2,4 +2,6 @@ resolvers += "scala-nightlies" at "https://repo.scala-lang.org/artifactory/maven
 
 scalaVersion := "3.10.1-RC1-bin-20260929-af35eef-NIGHTLY"
 
-libraryDependencies ++= Seq()
+libraryDependencies ++= Seq(
+  "org.virtuslab" %% "orca" % "0.1.9"
+)
